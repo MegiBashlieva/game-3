@@ -1,0 +1,47 @@
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Yahtzee3.exe.config
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Yahtzee3.exe
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Yahtzee3.pdb
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3_MarkupCompile.cache
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3.g.resources
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3.Properties.Resources.resources
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3.exe
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3.pdb
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3_MarkupCompile.lref
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Resources\five.png
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\obj\Debug\Yahtzee3_Content.g.cs
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Resources\four.png
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Resources\one.png
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Resources\six.png
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Resources\three.png
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Resources\two.png
+C:\Users\user\Desktop\Yahtzee3\Yahtzee3\bin\Debug\Resources\images.jpg
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Resources\five.png
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Resources\four.png
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Resources\images.jpg
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Resources\one.png
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Resources\six.png
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Resources\three.png
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Resources\two.png
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Yahtzee3.exe.config
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Yahtzee3.exe
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\bin\Debug\Yahtzee3.pdb
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3_Content.g.cs
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3.g.resources
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3.exe
+C:\Users\Lenovo\Desktop\games\New folder (3)\Yahtzee3\obj\Debug\Yahtzee3.pdb
